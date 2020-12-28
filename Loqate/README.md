@@ -15,7 +15,7 @@ This article describes configuring an account to **Loqate** in **webMethods.io W
 Section 1: Configure a **Loqate** account<br/> 
 Section 2: Setting up a **Loqate** account in **webMethods.io Integration** tenant<br/> 
 
-### Section 1. Configure a Google OAuth <br/>
+### Section 1. Configure a Loqate account <br/>
 
 1.  [Sign up](https://account.loqate.com/register/) to Loqate or [login](https://account.loqate.com/Login/?r=%2faccount%2f) if you already have an account. 
 
