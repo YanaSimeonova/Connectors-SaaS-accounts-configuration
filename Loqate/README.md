@@ -21,13 +21,13 @@ Section 2: Setting up a **Loqate** account in **webMethods.io Integration** tena
 
 2.  Click on **Add service**,  In the Setup page , click on the API key<br/>
 
-	![Loqate](images/1.png)<br/>
+	![Loqate](images/1.jpg)<br/>
 
 	![Loqate](images/2.png)<br/>
 
 3.  Switch to configuration tab and configure your Loqate API key <br/>
 
-    ![Loqate](images/3.png)<br/>
+    ![Loqate](images/3.jpg)<br/>
 
 4. Note down **API key** <br/>
 
@@ -39,14 +39,14 @@ Section 2: Setting up a **Loqate** account in **webMethods.io Integration** tena
 
 7. Search for **Loqate** connector in the available connectors list. <br/>
 
-	![PubSub](images/4.png)<br/>
+	![Loqate](images/4.jpg)<br/>
 
 8. Mouse hover on the **Loqate** connector icon and then click on the **"+"** icon.<br/>
 
-	![PubSub](images/5.png)<br/>
+	![Loqate](images/5.jpg)<br/>
 
 9. Fill in the **Account name**, **API key** obtained from Step 4 . Click on **Add**.<br/>
 
-	![PubSub](images/6.png)<br/>
+	![Loqate](images/6.jpg)<br/>
 
 10. An account for Loqate connector has been added successfully, now you can use this account in your Workflows/Flowservices<br/>
