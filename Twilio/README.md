@@ -26,9 +26,9 @@ Section 2: Setting up a **Twilio** account in **webMethods.io Integration** tena
 
 3. Fill in required fields and verify your account to create the project.<br/>
 
-    	![Twilio](images/2.jpg)<br/>
+  	![Twilio](images/2.jpg)<br/>
     
-    	![Twilio](images/3.jpg)<br/>
+  	![Twilio](images/3.jpg)<br/>
 
 4. Note down **Account SID**  and **Auth Token**<br/>
    	![Twilio](images/4.jpg)<br/>
