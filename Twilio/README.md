@@ -33,7 +33,7 @@ Section 2: Setting up a **Twilio** account in **webMethods.io Integration** tena
 4. Note down **Account SID**  and **Auth Token**<br/>
 	![Twilio](images/4.png)<br/>
 
-### Section 2: Setting up Loqate account in webMethods.io Integration Workflow<br/>
+### Section 2: Setting up Twilio account in webMethods.io Integration Workflow<br/>
 
 5. Login to **webMethods.io Integration** tenant and choose your project or click on **"+"** to create new project<br/>
 
@@ -43,7 +43,7 @@ Section 2: Setting up a **Twilio** account in **webMethods.io Integration** tena
 
 	![Twilio](images/5.jpg)<br/>
 
-8. Mouse hover on the **Loqate** connector icon and then click on the **"+"** icon.<br/>
+8. Mouse hover on the **Twilio** connector icon and then click on the **"+"** icon.<br/>
 
 	![Twilio](images/6.jpg)<br/>
 

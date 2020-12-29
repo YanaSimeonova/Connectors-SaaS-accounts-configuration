@@ -7,8 +7,8 @@
 This article describes configuring an account to **Loqate** in **webMethods.io Workflow**<br/>
 
 ## Pre-requisites:
-•	User needs to have a **Loqate** account<br/> 
-•	Working **webMethods.io Integration** tenant<br/> 
+•	Active **Loqate** account<br/> 
+•	Active **webMethods.io Integration** tenant<br/> 
 
 ## Contents:
 
