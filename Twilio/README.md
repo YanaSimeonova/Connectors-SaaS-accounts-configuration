@@ -24,14 +24,14 @@ Section 2: Setting up a **Twilio** account in **webMethods.io Integration** tena
 
 	![Twilio](images/1.jpg)<br/>
 
-3.  Fill in required fields and verify your account to create the project.<br/>
+3. Fill in required fields and verify your account to create the project.<br/>
 
-    ![Twilio](images/2.jpg)<br/>
+    	![Twilio](images/2.jpg)<br/>
     
-	![Twilio](images/3.png)<br/>
+    	![Twilio](images/3.jpg)<br/>
 
 4. Note down **Account SID**  and **Auth Token**<br/>
-	![Twilio](images/4.png)<br/>
+   	![Twilio](images/4.jpg)<br/>
 
 ### Section 2: Setting up Twilio account in webMethods.io Integration Workflow<br/>
 
