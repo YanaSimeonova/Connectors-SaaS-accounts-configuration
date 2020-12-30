@@ -8,6 +8,7 @@ Here is the step by step guide to configure accounts for the most widely used Sa
 * [Salesforce](./Salesforce)
 * [MicrosoftDynamicsCRM](./MicrosoftDynamicsCRM)
 * [Loqate](./Loqate)
+* [Twilio](./Twilio)
 
 _______________________________
 For more information you can Ask a Question in the TECHcommunity Forums [TECHcommunity Forums](https://tech.forums.softwareag.com/techjforum/forums/list.page?product=integration-cloud)
