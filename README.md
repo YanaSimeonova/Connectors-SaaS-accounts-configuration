@@ -6,10 +6,10 @@ Here is the step by step guide to configure accounts for the most widely used Sa
 
 * [Google](./Google)
 * [Salesforce](./Salesforce)
-* [MicrosoftDynamicsCRM](./MicrosoftDynamicsCRM)
+* [Microsoft Dynamics CRM](./Microsoft%20Dynamics%20CRM)
 * [Loqate](./Loqate)
 * [Twilio](./Twilio)
-* [AdobeExperiencePlatform](./AdobeExperiencePlatform)
+* [Adobe Experience Platform](./Adobe%20Experience%20Platform)
 
 _______________________________
 For more information you can Ask a Question in the TECHcommunity Forums [TECHcommunity Forums](https://tech.forums.softwareag.com/techjforum/forums/list.page?product=integration-cloud)
