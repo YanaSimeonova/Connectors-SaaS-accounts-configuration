@@ -24,7 +24,7 @@ Section 3: Configuring an OAuth **Aha** account in **webMethods.io** <br/>
 
 ![Aha](images/1.png)<br/>
 
- 3. Click on **Register** OAuth application and provide the Name of the App and Redirect URI and click **create** <br/>
+ 3. Click on **Register OAuth application** and provide the Name of the App and Redirect URI and click **create** <br/>
 
 ![Aha](images/2.png)<br/>
 
