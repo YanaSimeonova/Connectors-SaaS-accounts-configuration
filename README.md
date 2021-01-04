@@ -10,6 +10,7 @@ Here is the step by step guide to configure accounts for the most widely used Sa
 * [Loqate](./Loqate)
 * [Twilio](./Twilio)
 * [Adobe Experience Platform](./Adobe%20Experience%20Platform)
+* [Aha](./Aha)
 
 _______________________________
 For more information you can Ask a Question in the TECHcommunity Forums [TECHcommunity Forums](https://tech.forums.softwareag.com/techjforum/forums/list.page?product=integration-cloud)
