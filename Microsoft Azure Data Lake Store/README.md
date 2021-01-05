@@ -3,10 +3,10 @@
 
 ## Summary:
    
-This article describes the step-by-step process of registering **Microsoft Azure Data Lake Store Gen 2** with Azure Active Directory & generating the Access token, configuring the account in **webMethods.io Integration**x.<br/> 
+This article describes the step-by-step process of registering **Microsoft Azure Data Lake Store Gen 2** with Azure Active Directory & generating the Access token, configuring the account in **webMethods.io Integration**.<br/> 
 
 ## Pre-requisites:
-•	The user needs to have a working **Microsoft Azure Active Directory** and a **Microsoft Azure Data Lake License to access the API**. <br/>
+•	The user needs to have a working **Microsoft Azure Active Directory** and a **Microsoft Azure Data Lake License** to access the **API**. <br/>
 •	Working **webMethods.io Integration** cloud tenant. <br/> 
 
 ## Contents:
@@ -18,7 +18,7 @@ Section 3: Configuring the **Microsoft Azure Data Lake Store Gen 2** account in 
 
 ### Section 1. Create and Configure the App in **Microsoft Azure Active Directory**
 
- 1. Login to the Azure Portal (use your **Microsoft credentials**) <br/>
+ 1. Login to the [Azure Portal](https://portal.azure.com/) (use your **Microsoft credentials**) <br/>
 
  2. Once you have logged in navigate to **“Azure Active Directory”** and click on **“App registrations"**. <br/>
 
@@ -59,7 +59,7 @@ In the URL field, enter the URL using which you need to obtain the OAuth authent
 ### Section 2. Generate the **Access_token** and **Refresh_token** using the REST Client <br/>
  
 10. Users can also generate the **“client_secret”** via the below-mentioned process. <br/>
--	Click on Certificates and Secrets and then click on New Client Secret. <br/>
+-	Click on **Certificates and Secrets** and then click on **New Client Secret**. <br/>
 -	Choose the desired time duration for your secret key, click on the Add button. <br/>
 -	Your Client secret will be generated. Store it for use during Access Token generation. <br/>
 
@@ -68,10 +68,10 @@ In the URL field, enter the URL using which you need to obtain the OAuth authent
 ![Microsoft Azure Data Lake Store](images/10.png)<br/>
  
  11. Now we have done all the necessary settings, that we require to generate the Access_token. We will use the **“Postman” client** to generate the **Access_token**. Set up a POST call request with the base URL as below. <br/>
-https://login.microsoftonline.com/<tenant id>/oauth2/token <br/>
+https://login.microsoftonline.com/(<tenant id>)/oauth2/token <br/>
 
  12. Generate **authorization code** using the below URL by providing the required data <br/>
-     https://login.microsoftonline.com/ <tenant id>/oauth2/authorize?response_type=code&prompt=login&redirect_uri=<redirect uri>&client_id=<client id> <br/>
+     https://login.microsoftonline.com/(<tenant id>)/oauth2/authorize?response_type=code&prompt=login&redirect_uri=<redirect uri>&client_id=<client id> <br/>
 
 ![Microsoft Azure Data Lake Store](images/11.png)<br/>
  
