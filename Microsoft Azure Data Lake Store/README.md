@@ -28,8 +28,8 @@ Section 3: Configuring the **Microsoft Azure Data Lake Store Gen 2** account in 
 
 ![Microsoft Azure Data Lake Store](images/2.png)<br/>
 
- 4. Fill in the necessary information for the App, like **Redirect URI** and click on **Register**. <br/>
-Supported account types – Users can choose from the options based on their requirement. For more information about the supported scopes, click on “Help me choose...” <br/>
+ 4. Fill in the necessary information for the App, like **Name** , **Redirect URI** <br/>
+Supported account types – Users can choose from the options based on their requirement. For more information about the supported scopes, click on “Help me choose...”  and click on **Register** <br/>
 
 In the URL field, enter the URL using which you need to obtain the OAuth authentication token in response to the request from the URL: (https://www.softwareag.com/en_corporate.html). Users can use any accessible URL like http://www.google.com <br/>
 
@@ -117,11 +117,11 @@ https://login.microsoftonline.com/(tenant id)/oauth2/token <br/>
  
 ![Microsoft Azure Data Lake Store](images/21.png)<br/>
 
- 23. Select the **Business Object**(Since the selected operation is simple type, Business object not required here) and click on **“Next”** <br/>
+ 23. Select the **Business Object**(Since the selected operation is of type **simple**, Business object not required here) and click on **“Next”** <br/>
  
 ![Microsoft Azure Data Lake Store](images/22.png)<br/>
  
- 24. Select the **Fields** (Since the selected operation is simple type, Fields not required here) and click **“Next”**, Click on **“Done”** for the confirmation. <br/>
+ 24. Select the **Fields** (Since the selected operation is of type **simple**, Fields not required here) and click **“Next”**, Click on **“Done”** for the confirmation. <br/>
  
 ![Microsoft Azure Data Lake Store](images/23.png)<br/>
 ![Microsoft Azure Data Lake Store](images/24.png)<br/>
