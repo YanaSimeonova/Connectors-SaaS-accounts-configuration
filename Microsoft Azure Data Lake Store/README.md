@@ -29,13 +29,13 @@ Section 3: Configuring the **Microsoft Azure Data Lake Store Gen 2** account in 
 ![Microsoft Azure Data Lake Store](images/2.png)<br/>
 
  4. Fill in the necessary information for the App, like **Name** , **Redirect URI** <br/>
-Supported account types – Users can choose from the options based on their requirement. For more information about the supported scopes, click on “Help me choose...”  and click on **Register** <br/>
+**Supported account types –** Users can choose from the options based on their requirement. For more information about the supported scopes, click on “Help me choose...”  and click on **Register** <br/>
 
 In the URL field, enter the URL using which you need to obtain the OAuth authentication token in response to the request from the URL: (https://www.softwareag.com/en_corporate.html). Users can use any accessible URL like http://www.google.com <br/>
 
 ![Microsoft Azure Data Lake Store](images/3.png)<br/>
 
- 5. It will take a few seconds to create the application for you. Please note down the **Application ID** as you will require it when connecting to **Azure Data Lake Store using OAuth**. <br/>
+ 5. It will take a few seconds to create the application for you. Please note down the **Application ID** as you will require it when connecting to **Azure Data Lake Store** using **OAuth**. <br/>
 
 ![Microsoft Azure Data Lake Store](images/4.png)<br/>
 
