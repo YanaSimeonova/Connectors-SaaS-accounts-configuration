@@ -68,10 +68,10 @@ In the URL field, enter the URL using which you need to obtain the OAuth authent
 ![Microsoft Azure Data Lake Store](images/10.png)<br/>
  
  11. Now we have done all the necessary settings, that we require to generate the Access_token. We will use the **“Postman” client** to generate the **Access_token**. Set up a POST call request with the base URL as below. <br/>
-https://login.microsoftonline.com/(<tenant id>)/oauth2/token <br/>
+https://login.microsoftonline.com/(tenant id)/oauth2/token <br/>
 
  12. Generate **authorization code** using the below URL by providing the required data <br/>
-     https://login.microsoftonline.com/(<tenant id>)/oauth2/authorize?response_type=code&prompt=login&redirect_uri=<redirect uri>&client_id=<client id> <br/>
+     https://login.microsoftonline.com/(tenant id)/oauth2/authorize?response_type=code&prompt=login&redirect_uri=(redirect uri)&client_id=(client id) <br/>
 
 ![Microsoft Azure Data Lake Store](images/11.png)<br/>
  
