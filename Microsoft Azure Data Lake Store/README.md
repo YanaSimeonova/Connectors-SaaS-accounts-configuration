@@ -60,7 +60,7 @@ In the URL field, enter the URL using which you need to obtain the OAuth authent
  
 10. Users can also generate the **“client_secret”** via the below-mentioned process. <br/>
 -	Click on **Certificates and Secrets** and then click on **New Client Secret**. <br/>
--	Choose the desired time duration for your secret key, click on the Add button. <br/>
+-	Choose the desired time duration for your secret key, click on the **Add** button. <br/>
 -	Your Client secret will be generated. Store it for use during Access Token generation. <br/>
 
 ![Microsoft Azure Data Lake Store](images/9.png)<br/>
@@ -104,7 +104,7 @@ https://login.microsoftonline.com/(tenant id)/oauth2/token <br/>
 ![Microsoft Azure Data Lake Store](images/16.png)<br/>
 ![Microsoft Azure Data Lake Store](images/17.png)<br/>
 
- 20. Enter all the **required **details and Click on **“Add”** to save the Account successfully. <br/>
+ 20. Enter all the **required** details and Click on **“Add”** to save the Account successfully. <br/>
  
 ![Microsoft Azure Data Lake Store](images/18.png)<br/>
 ![Microsoft Azure Data Lake Store](images/19.png)<br/>
