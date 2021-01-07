@@ -13,6 +13,9 @@ Here is the step by step guide to configure accounts for the most widely used Sa
 * [Aha](./Aha)
 * [Microsoft Azure Data Lake Store](./Microsoft%20Azure%20Data%20Lake%20Store)
 
+Looking for some examples how to create workflows/flowservices, check out our articles [here](https://github.com/webMethods-Connectors/webMethodsio-Connectors-Examples).
+
+
 _______________________________
 For more information you can Ask a Question in the TECHcommunity Forums [TECHcommunity Forums](https://tech.forums.softwareag.com/techjforum/forums/list.page?product=integration-cloud)
 
