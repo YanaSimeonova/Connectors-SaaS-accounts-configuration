@@ -83,67 +83,67 @@ Section 2: Setting up a **Google** OAuth account in **webMethods.io Integration*
 
 ![Google PubSub](images/23.png)<br/>
 
-8.  Select **Authorized redirect URI's** and add the redirect URI as https://developers.google.com/oauthplayground and hit
+16. Select **Authorized redirect URI's** and add the redirect URI as https://developers.google.com/oauthplayground and hit
     **Create**<br/>
 
 ![PubSub](images/24.png)<br/>
 
-9.  Note down the **Client Id** and **Client Secret** created<br/>
+17. Note down the **Client Id** and **Client Secret** created<br/>
 
-10. Open the browser and point the browser to [Google Oauth Playground](https://developers.google.com/oauthplayground)<br/>
+18. Open the browser and point the browser to [Google Oauth Playground](https://developers.google.com/oauthplayground)<br/>
 
-11. On the right corner of the page, click on gear icon and fill in OAuth Client ID and OAuth Client Secret generated
+19. On the right corner of the page, click on gear icon and fill in OAuth Client ID and OAuth Client Secret generated
     (from Step 8) and click on Close<br/>
 
 ![PubSub](images/3.png)<br/>
 
-12. On left side panel, select the scopes required<br/>
+20. On left side panel, select the scopes required<br/>
 
 ![PubSub](images/4.png)<br/>
 
-13. Hit on **Authorize APIs**<br/>
+21. Hit on **Authorize APIs**<br/>
 
 ![PubSub](images/5.png)<br/>
 
-14. Click on **Exchange authorization code for tokens**<br/>
+22. Click on **Exchange authorization code for tokens**<br/>
 
 ![PubSub](images/6.png)<br/>
 
-15. Note down **Access Token** and **Refresh Token**<br/>
+23. Note down **Access Token** and **Refresh Token**<br/>
 
 ![PubSub](images/15.png)<br/>
 
 ### Section 2: Setting up Google OAuth account in webMethods.io Integration Workflow<br/>
 
-16. Login to **webMethods.io Integration** tenant and choose your project or click on **"+"** to create new project<br/>
+24. Login to **webMethods.io Integration** tenant and choose your project or click on **"+"** to create new project<br/>
 
 ![PubSub](images/16.png)<br/>
 
-17. Choose your workflow or click on **"+"** to create new workflow<br/>
+25. Choose your workflow or click on **"+"** to create new workflow<br/>
 
 ![PubSub](images/7.png)<br/>
 
-18. From the right-hand panel of connectors list. Drag and drop a **Google Cloud PubSub Connector**<br/>
+26. From the right-hand panel of connectors list. Drag and drop a **Google Cloud PubSub Connector**<br/>
 
 ![PubSub](images/8.png)<br/>
 
-19. Click on gear icon on the connector and choose any predefined operation (Example: listTopics) and click on **"+"** to 
+27. Click on gear icon on the connector and choose any predefined operation (Example: listTopics) and click on **"+"** to 
     add account<br/>
 
 ![PubSub](images/9.png)<br/>
 
-20. Fill in the **Client Id**, **Client Secret** obtained from Step 8 and **Access Token**,**Refresh Token**  obtained from Step 14<br/>
+28. Fill in the **Client Id**, **Client Secret** obtained from Step 8 and **Access Token**,**Refresh Token**  obtained from Step 14<br/>
 
     Refresh URL:  https://www.googleapis.com/oauth2/v4/token <br/>
     Grant_type :  refresh_token <br/>
 
 ![PubSub](images/10.png)<br/>
 
-21. Click on **Add** and Hit **Next** and pass the required inputs (In this case “listTopics” requires projectId to be passed)<br/>
+29. Click on **Add** and Hit **Next** and pass the required inputs (In this case “listTopics” requires projectId to be passed)<br/>
 
 ![PubSub](images/11.png)
 
-22. Click on **Save** and **Run** the workflow<br/>
+30. Click on **Save** and **Run** the workflow<br/>
 
 ![PubSub](images/12.png)<br/>
 
