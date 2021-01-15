@@ -46,7 +46,39 @@ Section 2: Setting up a **Google** OAuth account in **webMethods.io Integration*
 
 ![Google PubSub](images/1.png)<br/>
 
-7.  Select the appropriate application type (In this case application type is **web application**) for your project and enter any
+7. Users setting up **Google Cloud Console** for the first time, they need to configure the **Consent Screen** to get the **Client ID** click **Configure Consent Screen**.
+
+![Google PubSub](images/1.1.png)<br/>
+
+8. In the next screen choose the user type as **External** click **Create**.
+
+![Google PubSub](images/2.2.png)<br/>
+
+9. Next screen will show for **Edit app registration**, provide the **App name** & **User support email**.
+
+![Google PubSub](images/3.3.png)<br/>
+
+10. Provide the details for **Application home page** & **Authorized domains**.
+
+![Google PubSub](images/4.4.png)<br/>
+
+11. Provide the details for **Developer contact information** & click **Save and continue**.
+
+![Google PubSub](images/5.5.png)<br/>
+
+12. Next screen will show for configuring the **Scopes**, click on **Add or remove scopes** then select the ** API Check box** & click **Update**.
+
+![Google PubSub](images/6.6.png)<br/>
+
+13. Click **Add Users** to add some extra users for the app & click **Save & Continue**.
+
+![Google PubSub](images/7.7.png)<br/> 
+
+14. Review the **Summery** section, then click **Back to Dashboard**. Now we have successfully configured the **Consent Screen**.
+
+![Google PubSub](images/8.8.png)<br/>
+
+15. Click **+Create Credentials** again & Select the appropriate application type (In this case application type is **web application**) for your project and enter any
     additional information required<br/>
 
 ![Google PubSub](images/23.png)<br/>
